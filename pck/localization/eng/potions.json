@@ -1,0 +1,8 @@
+{
+  "SPIRIT_TEARS.title": "Spirit Tears",
+  "SPIRIT_TEARS.description": "Gain [blue]{PsychokinesisPower}[/blue] [gold]Psychokinesis[/gold].",
+  "GRUDGE_DRAUGHT.title": "Grudge Draught",
+  "GRUDGE_DRAUGHT.description": "[gold]Exorcise 3[/gold] an enemy (randomly cleanse up to 3 [gold]Grudge[/gold] stacks; the enemy loses 2 Strength per stack cleansed).",
+  "ABYSSAL_ELIXIR.title": "Abyssal Elixir",
+  "ABYSSAL_ELIXIR.description": "Apply [blue]{WeakPower}[/blue] [gold]Weak[/gold] and [blue]{VulnerablePower}[/blue] [gold]Vulnerable[/gold] to ALL enemies."
+}

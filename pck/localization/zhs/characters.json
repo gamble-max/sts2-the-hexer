@@ -1,0 +1,22 @@
+{
+  "HEXER.title": "咒诅师",
+  "HEXER.shortTitle": "咒诅师",
+  "HEXER.titleObject": "咒诅师",
+  "HEXER.description": "来自暗港沉没神龛的盲眼灵媒「娑罗」。\n以念力感知附着于万物之上的怨灵，驾驭诅咒、祓除与祈福。",
+  "HEXER.possessiveAdjective": "他的",
+  "HEXER.pronounObject": "他",
+  "HEXER.pronounPossessive": "他的",
+  "HEXER.pronounSubject": "他",
+  "HEXER.cardsModifierTitle": "咒诅师卡牌",
+  "HEXER.cardsModifierDescription": "咒诅师的卡牌现在会出现在奖励和商店中。",
+  "HEXER.eventDeathPrevention": "……怨灵尚未散去，我还不能倒在这里。",
+  "HEXER.aromaPrinciple": "[sine][aqua]听啊……怨念在丝弦上震颤……[/aqua][/sine]",
+  "HEXER.goldMonologue": "[sine]沉没神龛的香火，或许能凭这些金币重燃……[/sine]",
+  "HEXER.bestiaryQuote": "即使蒙蔽双眼，此物的怨气也清晰可闻。",
+  "HEXER.banter.alive.endTurnPing": "丝弦已紧绷……",
+  "HEXER.banter.dead.endTurnPing": "……",
+  "HEXER.unlockText": "默认已解锁。",
+  "HEXER.characterSelectTitle": "咒诅师 · 娑罗",
+  "HEXER.characterSelectDesc": "双眼蒙尘却能以念力观照怨灵。\n携带三张特殊诅咒开局，在诅咒、念力增幅与极咒深渊中博弈。",
+  "HEXER.eventDeathPreventionLine": "……怨灵尚未散去，我还不能倒在这里。"
+}

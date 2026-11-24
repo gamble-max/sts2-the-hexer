@@ -1,0 +1,8 @@
+{
+  "SPIRIT_TEARS.title": "灵泪药剂",
+  "SPIRIT_TEARS.description": "获得[blue]{PsychokinesisPower}[/blue]点[gold]念力[/gold]。",
+  "GRUDGE_DRAUGHT.title": "怨露药剂",
+  "GRUDGE_DRAUGHT.description": "对一名敌人[gold]祓除 3[/gold]（随机解除其至多3层[gold]怨[/gold]，每解除1层使其失去2点力量）。",
+  "ABYSSAL_ELIXIR.title": "深渊秘药",
+  "ABYSSAL_ELIXIR.description": "给予所有敌人[blue]{WeakPower}[/blue]层[gold]虚弱[/gold]和[blue]{VulnerablePower}[/blue]层[gold]易伤[/gold]。"
+}

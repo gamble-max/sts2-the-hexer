@@ -1,0 +1,22 @@
+{
+  "HEXER.title": "The Hexer",
+  "HEXER.shortTitle": "Hexer",
+  "HEXER.titleObject": "The Hexer",
+  "HEXER.description": "Sora, the blind spirit-medium from the sunken shrine of the Underdocks.\nPerceives Grudges through Psychokinesis, wielding Curses, Exorcism, and Blessing.",
+  "HEXER.possessiveAdjective": "his",
+  "HEXER.pronounObject": "him",
+  "HEXER.pronounPossessive": "his",
+  "HEXER.pronounSubject": "he",
+  "HEXER.cardsModifierTitle": "Hexer Cards",
+  "HEXER.cardsModifierDescription": "Hexer cards will now appear in rewards and shops.",
+  "HEXER.eventDeathPrevention": "...The Grudges are not yet settled. I cannot fall here.",
+  "HEXER.aromaPrinciple": "[sine][aqua]Listen... the grudges hum along the strings...[/aqua][/sine]",
+  "HEXER.goldMonologue": "[sine]Perhaps these coins can rekindle the sunken shrine...[/sine]",
+  "HEXER.bestiaryQuote": "Even behind blindfolds, this creature's malice rings clear.",
+  "HEXER.banter.alive.endTurnPing": "The strings grow taut...",
+  "HEXER.banter.dead.endTurnPing": "...",
+  "HEXER.unlockText": "Unlocked by default.",
+  "HEXER.characterSelectTitle": "The Hexer - Sora",
+  "HEXER.characterSelectDesc": "Blind of eye, yet attuned to lingering Grudges through Psychokinesis.\nBegins with three special Curses and commands Exorcism, Blessing, and Abyssal Gaze.",
+  "HEXER.eventDeathPreventionLine": "...The Grudges are not yet settled. I cannot fall here."
+}

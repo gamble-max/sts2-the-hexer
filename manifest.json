@@ -1,0 +1,12 @@
+{
+  "id": "Hexer",
+  "name": "咒诅师 (The Hexer)",
+  "author": "STS2Mods",
+  "description": "新角色「咒诅师 · 娑罗」(CN/EN)：76张独立卡图卡牌/9遗物/3药水，2D骨骼幽灵披风建模，围绕特殊诅咒、念力增幅、怨灵附着、祓除/祈福与烧牌构筑 | New Character: The Hexer (76 Cards, 9 Relics, 3 Potions; 2D Spectral Cloak Rig, Psychokinesis, Grudge & Curses)",
+  "version": "1.2.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true,
+  "min_game_version": "0.110.0"
+}
